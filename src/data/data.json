@@ -1,9 +1,48 @@
 [
     {
-        "question":"Do you like react",
-        "answers": {
-            "positive":"Good choice !",
-            "negative":"Damn !"
-        }
+        "id":1,
+        "question":"Do you like react ?",
+        "answers": [
+            {
+                "text":"Yes",
+                "reply":"Good choice !"
+            },
+            {
+                "text":"No",
+                "reply":"Damn !"
+            }
+        ]
+    },
+    {
+        "id":2,
+        "question":"Do ?",
+        "answers": [
+            {
+                "text":"Yes",
+                "reply":"Yes"
+            },
+            {
+                "text":"No",
+                "reply":"No"
+            },
+            {
+                "text":"Maybe",
+                "reply":"Maybe"
+            }
+        ]
+    },
+    {
+        "id":3,
+        "question":"Do you like this Website ?",
+        "answers": [
+            {
+                "text":"Yes",
+                "reply":"Here's my contact : ruben.dunesme@gmail.com"
+            },
+            {
+                "text":"No",
+                "reply":"Here's my contact anyway : ruben.dunesme@gmail.com"
+            }
+        ]
     }
 ]
