@@ -1,0 +1,9 @@
+[
+    {
+        "question":"Do you like react",
+        "answers": {
+            "positive":"Good choice !",
+            "negative":"Damn !"
+        }
+    }
+]
